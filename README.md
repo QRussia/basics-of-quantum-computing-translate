@@ -1,12 +1,12 @@
-# QWorld's Basics of Quantum Computing
+# Основы квантовых вычислений от QWorld (перевод QRussia)
 
-Our introductory material to introduce the basics of quantum computation and quantum programming. 
+Наш материал дает основы по квантовым вычислениям и квантовому программированию. 
 
-We plan to have three set of materials here: **Bronze**, **Silver**, and **Gold**. 
+Планируется сделать три вида материалов: **Bronze**, **Silver**, and **Gold**. 
 
 ## Bronze
 
-Bronze is ready to use and it is being updated time to time.
+Bronze уже готов к использованию, оданко периодически обновляется сообществом.
 
 Bronze is a collection of [Jupyter notebooks](https://jupyter.org/) (nearly 80 notebooks) using python as the programming language and [qiskit library](https://qiskit.org) for writing quantum programs. New quantum libraries will be added.
 
@@ -27,15 +27,11 @@ By June 30, 2020, Bronze and its different versions have been used in 31 two-day
 
 ## Silver & Gold
 
-Silver is expected to be available by Summer 2020. 
+За данными материалами следите в [оригинальном репозитории](https://gitlab.com/qkitchen/basics-of-quantum-computing/)
 
-We use [QPool2019](https://gitlab.com/qkitchen/qpool2019) for preparing our materials.
+## Установка
 
-The interested people are welcome to participate. (Please check the README file of QPool2019.)
-
-## Installation
-
-Please check "[Installation.txt](https://gitlab.com/qkitchen/basics-of-quantum-computing/blob/master/Installation.txt)".
+Весь процесс установки описан в "[Installation.txt](https://gitlab.com/qkitchen/basics-of-quantum-computing/blob/master/Installation.txt)".
 
 ## License
 
