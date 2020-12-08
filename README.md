@@ -8,9 +8,9 @@
 
 Bronze уже готов к использованию, оданко периодически обновляется сообществом.
 
-Bronze is a collection of [Jupyter notebooks](https://jupyter.org/) (nearly 80 notebooks) using python as the programming language and [qiskit library](https://qiskit.org) for writing quantum programs. New quantum libraries will be added.
+Bronze - это коллекция [Jupyter ноутбуков](https://jupyter.org/) (порядка 80 ноутбуков), использующих python как язык программирования и [qiskit library](https://qiskit.org) для написания квантовых программ. Новые библиотеки по квантовым вычислениям будут также добавлены со временем.
 
-_In Bronze, we focus on real numbers and skip to use complex numbers to keep the tutorial simpler._
+_В Bronze мы сфокусированы на действительных числах и пропускаем комплексные с целью упрощения восприятия материала._
 
 Bronze can be used to organize 3-day long workshops or to design a 2-credit course for the second or third year university students 
 by assuming that the participants/students would revise the notebooks for python and math by themselves. 
@@ -23,7 +23,7 @@ Starting from July 7, 2019, Bronze has been on a public gitlab repository and it
 
 By June 30, 2020, Bronze and its different versions have been used in 31 two-day or three-day long workshops:
 
-[The updated list of QBronze](http://qworld.lu.lv/index.php/workshop-bronze/#list)
+[Список мероприятий QBronze](http://qworld.lu.lv/index.php/workshop-bronze/#list)
 
 ## Silver & Gold
 
@@ -33,11 +33,11 @@ By June 30, 2020, Bronze and its different versions have been used in 31 two-day
 
 Весь процесс установки описан в "[Installation.txt](https://gitlab.com/qkitchen/basics-of-quantum-computing/blob/master/Installation.txt)".
 
-## License
+## Лицензия
 
-The text and figures are licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0), available at https://creativecommons.org/licenses/by/4.0/legalcode. 
+Текст и картинки под лицензией Creative Commons Attribution 4.0 International Public License (CC-BY-4.0), доступен на https://creativecommons.org/licenses/by/4.0/legalcode. 
 
-The code snippets in the notebooks are licensed under Apache License 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.
+Код в ноутбуках лицензирован под Apache License 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.
 
 
 
