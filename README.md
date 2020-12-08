@@ -15,11 +15,15 @@ _В Bronze мы сфокусированы на действительных ч�
 Bronze может быть использован для организации 3-дневных воркшопов или для разработки годичных курсов для студентов старших курсов.
 
 Основные разработчики Bronze:
-- [Dr. Abuzer Yakaryilmaz](http://abu.lu.lv) ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)). 
-- Dr. Maksims Dimitrijevs ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)).
-- Dr. Özlem Salehi Köken ([QTurkey](http://qworld.lu.lv/index.php/qturkey/)). 
+* [Dr. Abuzer Yakaryilmaz](http://abu.lu.lv) ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)). 
+* Dr. Maksims Dimitrijevs ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)).
+* Dr. Özlem Salehi Köken ([QTurkey](http://qworld.lu.lv/index.php/qturkey/)).
 
 (Люди, внесшие свой вклад, представлены в "Credits".)
+
+Над переводом работают:
+* Ильназ Маннапов
+* Артак Санамян 
 
 [Список мероприятий QBronze](http://qworld.lu.lv/index.php/workshop-bronze/#list)
 
