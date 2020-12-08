@@ -10,18 +10,16 @@ Bronze уже готов к использованию, оданко перио�
 
 Bronze - это коллекция [Jupyter ноутбуков](https://jupyter.org/) (порядка 80 ноутбуков), использующих python как язык программирования и [qiskit library](https://qiskit.org) для написания квантовых программ. Новые библиотеки по квантовым вычислениям будут также добавлены со временем.
 
-_В Bronze мы сфокусированы на действительных числах и пропускаем комплексные с целью упрощения восприятия материала._
+_В Bronze мы сфокусированы на действительных числах с целью упрощения восприятия материала и не рассматриваем комплексные._
 
-Bronze can be used to organize 3-day long workshops or to design a 2-credit course for the second or third year university students 
-by assuming that the participants/students would revise the notebooks for python and math by themselves. 
+Bronze может быть использован для организации 3-дневных воркшопов или для разработки годичных курсов для студентов старших курсов.
 
-Bronze was created by [Dr. Abuzer Yakaryilmaz](http://abu.lu.lv) ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)) in October 2018, 
-and the most part of it had been developed by him. 
-Dr. Maksims Dimitrijevs ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)) and Dr. Özlem Salehi Köken ([QTurkey](http://qworld.lu.lv/index.php/qturkey/)) also contribued to Bronze by preparing or revising notebooks. 
-(Please check the notebook "Credits" for the other contributors.)
-Starting from July 7, 2019, Bronze has been on a public gitlab repository and it is expected to have contributions from public as well.
+Основные разработчики Bronze:
+- [Dr. Abuzer Yakaryilmaz](http://abu.lu.lv) ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)). 
+- Dr. Maksims Dimitrijevs ([QLatvia](http://qworld.lu.lv/index.php/qlatvia/)).
+- Dr. Özlem Salehi Köken ([QTurkey](http://qworld.lu.lv/index.php/qturkey/)). 
 
-By June 30, 2020, Bronze and its different versions have been used in 31 two-day or three-day long workshops:
+(Люди, внесшие свой вклад, представлены в "Credits".)
 
 [Список мероприятий QBronze](http://qworld.lu.lv/index.php/workshop-bronze/#list)
 
